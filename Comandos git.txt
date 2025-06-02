@@ -1,0 +1,44 @@
+Local
+en mi pc
+
+remoto 
+en la nube
+
+Repositorio o nuevo directorio
+git init
+
+para clonar un repositorio
+git clone 
+
+Agregar archivos
+git add <temp.txt>
+
+instancia de los cambios y la guardara
+git comit -m "El mensaje que acompaña el comit va aqui"
+
+
+git config
+
+muestra la lista de cambios 
+git status
+
+confirmaciones locales
+git push origin <master>
+
+crea ramas
+comand git checkout -b <nombre de la rama>
+
+ver repositorios remotos
+git remote -v
+
+para borrar ramas
+git branch -d <nombre de la rama>
+
+fusionar cambios entre repositorio remoto y local
+git pull
+
+fusionar una rama con otra
+git merge
+
+comparar archivos entre ramas
+git diff
